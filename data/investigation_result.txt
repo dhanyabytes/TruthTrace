@@ -1,0 +1,7 @@
+TRUTHTRACE INVESTIGATION RESULT
+===============================
+
+Player accusation: Sophie Carter
+Correct culprit: Sophie Carter
+
+Result: CORRECT
